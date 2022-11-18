@@ -1,6 +1,6 @@
-# Sample Hardhat Project
+# FundMe Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project is about receiving funds from the world using Hardhat, ethers, Chainling and more. It comes with several contracts, tests for the contracts, and a script that deploys that contract.
 
 Try running some of the following tasks:
 
